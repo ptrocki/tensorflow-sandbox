@@ -1,0 +1,10 @@
+version: '2.1'
+
+services:
+  docker-test:
+    image: docker-test
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8888:8888
