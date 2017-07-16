@@ -1,1 +1,5 @@
-https://stackoverflow.com/questions/42116597/how-to-run-python-scripts-on-mac-terminal-using-docker-with-tensorflow
+Build project: 
+
+```javascript
+python build.py
+```
